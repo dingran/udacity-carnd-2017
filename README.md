@@ -3,14 +3,13 @@ List of projects and notes when going through Udacity's Self-driving Car Nanodeg
 
 ## Table of Content
 
-* [udacity\-carnd\-2017](#udacity-carnd-2017)
-  * [Term1: Computer Vision and Deep Learning](#term1-computer-vision-and-deep-learning)
-    * [Project1: Finding Lane Lines](#project1-finding-lane-lines)
-    * [Lab: TensorFlow Neural Network](#lab-tensorflow-neural-network)
-    * [Lab: LeNet In TensorFlow](#lab-lenet-in-tensorflow)
-    * [Project2: Traffic Sign Classification](#project2-traffic-sign-classification)
-    * [Lab: AlexNet](#lab-alexnet)
-    * [Lab: VGG, Inception (GoogLeNet) and ResNet](#lab-vgg-inception-googlenet-and-resnet)
+* [Term1: Computer Vision and Deep Learning](#term1-computer-vision-and-deep-learning)
+  * [Project1: Finding Lane Lines](#project1-finding-lane-lines)
+  * [Lab: TensorFlow Neural Network](#lab-tensorflow-neural-network)
+  * [Lab: LeNet In TensorFlow](#lab-lenet-in-tensorflow)
+  * [Project2: Traffic Sign Classification](#project2-traffic-sign-classification)
+  * [Lab: AlexNet](#lab-alexnet)
+  * [Lab: VGG, Inception (GoogLeNet) and ResNet](#lab-vgg-inception-googlenet-and-resnet)
 
 
 ---
