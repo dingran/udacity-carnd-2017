@@ -66,6 +66,13 @@ https://github.com/dingran1019/CarND-Alexnet-Feature-Extraction
 ### Lab: VGG, Inception (GoogLeNet) and ResNet
 https://github.com/dingran1019/CarND-Transfer-Learning-Lab
 
+--- 
+### Project3: Behaviorial Cloning
 
+Instruction: https://github.com/udacity/CarND-Behavioral-Cloning-P3
 
+Solution: https://github.com/dingran1019/behavioral-cloning
+
+Notes:
+ * 
 
