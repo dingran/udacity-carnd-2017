@@ -74,5 +74,11 @@ Instruction: https://github.com/udacity/CarND-Behavioral-Cloning-P3
 Solution: https://github.com/dingran1019/behavioral-cloning
 
 Notes:
- * 
+ * Careful about RGB vs BGR between OpenCV and other tools
+ * Recovery drive traning data is important; more important than fancy networks
+ * Training data is too heavy on 0 deg steering angle, it might help to remove some of them
+ * Some resources recommended by reviewer:
+  * http://selfdrivingcars.mit.edu/
+  * https://medium.com/udacity/teaching-a-machine-to-steer-a-car-d73217f2492c
+  * https://github.com/commaai/research/blob/master/train_steering_model.py
 
