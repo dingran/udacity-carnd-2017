@@ -82,3 +82,12 @@ Notes:
   * https://medium.com/udacity/teaching-a-machine-to-steer-a-car-d73217f2492c
   * https://github.com/commaai/research/blob/master/train_steering_model.py
 
+--- 
+### Project4: Advanced Lane Finding
+
+Instruction: https://github.com/udacity/CarND-Advanced-Lane-Lines
+
+Solution: https://github.com/dingran1019/advanced-lane-finding
+
+Notes:
+ * 
